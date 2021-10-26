@@ -1,0 +1,6 @@
+main: de.ardania.teleportblocker.TeleportBlocker
+name: TeleportBlocker
+version: 1.0.0
+author: Umbreon
+load: POSTWORLD
+website: ardania.de
